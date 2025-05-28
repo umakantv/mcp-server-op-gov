@@ -23,4 +23,4 @@ It uses the [MCP Protocal](https://modelcontextprotocol.io/introduction).
 1. Run the command `uv run --with mcp mcp dev server.py` to start the MCP Inspector.
 2. Connect to the MCP server using STDIO transport type and go to the tools tab
 
-When you have debugged that tools work correctly, you can connect this MCP server with the **OpGovWatch Chat App**.
+When you have debugged that tools work correctly, you can connect this MCP server with the [**OpGovWatch Chat App**](https://github.com/umakantv/op-gov-watch-chatbot).
